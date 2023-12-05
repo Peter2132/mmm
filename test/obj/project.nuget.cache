@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "qmBGL99xoRpV5Lz/8iVnf0ZzssTL4612AG7I03xnI75z1inay8Rc5w890aUru8qaEI5vKHi7PSRvpEH1xqGcRA==",
+  "success": true,
+  "projectFilePath": "D:\\test\\test\\test.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\trofi\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
